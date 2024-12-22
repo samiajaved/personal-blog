@@ -9,7 +9,7 @@ export default function Portfolio (){
                     <div className="hidden lg:block  mt-6 lg:w-[450px] lg:h-[300px] lg:mt-28 ">
                         <h1 className="lg:font-bold lg:text-5xl mb-5">Portfolio</h1>
                         <p>Welcome to my portfolio! This space is a collection of my work, showcasing the projects and creative endeavors that 
-                            I'm most proud of. It reflects my skills, passion, and growth as a developer. Take a look through my projects, and feel 
+                            I am most proud of. It reflects my skills, passion, and growth as a developer. Take a look through my projects, and feel 
                             free to reach out if you'd like to collaborate or learn more about my work.</p>
                             {/* button */}
                             <a href="https://github.com/samiajaved/portfolio.git" target="_blank" rel="noopener noreferrer">
@@ -22,7 +22,7 @@ export default function Portfolio (){
                     <Image src={photo}  alt="portfolio" className="h-[300px] lg:w-[500px] lg:mt-28" />
                     <div className="h-[300px] w-[350px] mt-4 ml-5 block lg:hidden">
                         <h1  className="text-3xl font-bold">Portfolio </h1>
-                        <p>Welcome to my portfolio! This space is a collection of my work, showcasing the projects and creative endeavors that I'm most 
+                        <p>Welcome to my portfolio! This space is a collection of my work, showcasing the projects and creative endeavors that I am most 
                         proud of. It reflects my skills, passion, and growth as adeveloper. Take a look through my projects, and feel free to reach 
                         out if you'd like to collaborate or learn more about my work.</p>
 
